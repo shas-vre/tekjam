@@ -1,0 +1,3 @@
+To finish the game you need to pick up the glowing cube
+
+The game use ZQSD to moove, space is used to slow the vessel.
